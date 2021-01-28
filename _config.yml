@@ -23,7 +23,7 @@ email: contact@jeremyboris.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hey, I'm Jeremy. Welcome to a place where I write about stuff, things and other nouns.
 baseurl: "jeremyboris" # the subpath of your site, e.g. /blog
-url: "http://jeremyboris.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: dulcetdiver
 # youtube_username: Whiteboard
 #linkedin_username: Jeremy Boris
