@@ -3,7 +3,7 @@ layout: "page"
 title: Donate
 ---
 
-Donate to support these projects:
+Donate to support my projects:
 
 <div id="smart-button-container">
       <div style="text-align: center;">
